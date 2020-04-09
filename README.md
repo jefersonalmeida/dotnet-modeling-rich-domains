@@ -1,0 +1,1 @@
+# dotnet-modeling-rich-domains
